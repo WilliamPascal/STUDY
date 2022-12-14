@@ -1,4 +1,6 @@
-<h1 align="center">STUDY</h>
+<h1 align="center">STUDY
+
+Remastered</h>
 
 ### Huh, what is this?
 
