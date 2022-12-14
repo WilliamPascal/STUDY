@@ -1,4 +1,4 @@
-<h1 align="center">STUDY
+<h1 align="center">STUDY🏗
 
 Rebuilt Version</h1>
 
