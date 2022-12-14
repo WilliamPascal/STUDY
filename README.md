@@ -1,6 +1,6 @@
 <h1 align="center">STUDY
 
-Remastered</h>
+Rebuilt</h>
 
 ### Huh, what is this?
 
