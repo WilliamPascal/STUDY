@@ -2,13 +2,13 @@
 
 Rebuilt Version</h1>
 
-### Huh, what is this?
+### Wow, what is this, again?
 
 Glad you asked!
 
 Origenally, it was a project which aimed to help myself better understanding Java. When time passes on, I had a even greater idea, which is what I am forcusing on right now -- rewritting Study with <u><b><font color="#FFFF00" size=4 face="Courier Prime">C</font></b></u>[arnival](https://github.com/WilliamPascal/Carnival "LinkToCarnival").
 
-### What?
+### Huh?
 
 More questions? Should you be!
 
@@ -24,7 +24,7 @@ Study is similar to your terminal apps, or more like your interactive consoles. 
 
 And don't even mention we could have <u><b><font color="#FF9900" size=4 face="Noto Serif Display Black">X</font></b></u>[11](https://x.org/wiki/) support for this very Project to "Study" on -- <u><b><i><font color="#FF9900" size=4 face="Noto Serif Display Black">X</font></i></b></u>[STUDY](https://github.com/WilliamPascal/Xstudy)
 
-### Fine, fine. But install?
+### How to jam this into my kumputre?
 
 Ahh, name of the game! [PepeClap][EasyClap]
 
